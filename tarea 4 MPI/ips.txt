@@ -1,0 +1,7 @@
+client2 ucsp2 ip: 192.168.0.25
+client1 ucsp1 ip: 192.168.0.26
+client3 ucsp3 ip: 192.168.0.27
+
+wget https://download.open-mpi.org/release/open-mpi/v4.1/openmpi-4.1.3.tar.gz
+
+ucsp1 agent pid 9113
